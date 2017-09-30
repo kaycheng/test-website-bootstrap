@@ -1,0 +1,21 @@
+body {
+  padding-top: 100px;
+}
+
+.my-nav {
+  background-color: #66ccff;
+}
+
+.my-nav ul {
+  margin: 10px 0;
+}
+
+hr.bar {
+  border: 2px solid #66ccff;
+  width: 80px;
+  margin: 30px auto;
+}
+
+img {
+  margin: 10px auto;
+}
